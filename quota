@@ -1,0 +1,12 @@
+==================
+System Installer
+==================
+ThisProgramCannotBeRunInDOSMode
+define
+install41.msi
+whenIF.editTRACK
+md token
+datepattern
+langsetEN
+= edit =
+cdedit.menuu
